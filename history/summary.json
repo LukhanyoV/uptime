@@ -4,18 +4,19 @@
     "url": "https://tutorsa.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tutorsa.onrender.com.ico",
     "slug": "tutor-sa",
-    "status": "up",
-    "uptime": "98.93%",
+    "status": "down",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 1593,
     "timeDay": 573,
     "timeWeek": 1593,
     "timeMonth": 1593,
     "timeYear": 1593,
     "dailyMinutesDown": {
+      "2024-12-24": 0,
       "2024-12-20": 55
     }
   }
