@@ -4,7 +4,7 @@
     "url": "https://tutorsa.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tutorsa.onrender.com.ico",
     "slug": "tutor-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "96.24%",
@@ -13,7 +13,7 @@
     "time": 2620,
     "timeDay": 606,
     "timeWeek": 2992,
-    "timeMonth": 2979,
+    "timeMonth": 2820,
     "timeYear": 2620,
     "dailyMinutesDown": {
       "2025-02-02": 16,
